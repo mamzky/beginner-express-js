@@ -1,0 +1,11 @@
+GET http://localhost:3000/products/1?mamzky=55
+
+###
+
+POST http://localhost:3000/add
+Content-Type: application/json
+
+{
+    "id" : 99,
+    "name" : "auliya"
+}
